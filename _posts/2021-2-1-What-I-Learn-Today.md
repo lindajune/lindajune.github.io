@@ -12,9 +12,9 @@ title: About Github & Github Page
 - Installation: [How to Install GitHub for Mac](https://www.instructables.com/How-To-Install-GitHub-For-Mac/)
   Download zip; Unzip; Drag to Applications; Open
 -  Use git with command line:
-   [configuration](https://www.liaoxuefeng.com/wiki/896043488029600/896067074338496)
-   [creat a repo](https://www.liaoxuefeng.com/wiki/896043488029600/896827951938304)
+   - [configuration](https://www.liaoxuefeng.com/wiki/896043488029600/896067074338496)
+   - [creat a repo](https://www.liaoxuefeng.com/wiki/896043488029600/896827951938304)
 
 #### Next:
 - Use git with command line:
-  [remote control](https://www.liaoxuefeng.com/wiki/896043488029600/898732864121440)
+  - [remote control](https://www.liaoxuefeng.com/wiki/896043488029600/898732864121440)
