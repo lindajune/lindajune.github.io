@@ -3,27 +3,20 @@ layout: post
 title: Wrap Up My Postdoc Life
 ---
 
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+This is the first blog in recording my new journey in academics.
 
+## Why build this blog?
+I have been suffered from symptoms of **procrastination** for a quite long time. So I am trying to use this blog to track my behaviors to figure out whether I could get rid of it and how.
 
+I list down my todos in Feb, 2021 before my departure:
+1. Ending the Research Project
+- [ ] Finalize the calculation of results
+- [ ] Sort out the result summary
+- [ ] Sentences for the story
 
-
-# Todo List
-
-1. Ending Project
-..* Finalize the calculation of results
-..* Sort out the result summary
-..* Sentences for the story
-
-2. Writing Proposal
-..* Timeline of NSFC
-..*
+2. Writing Proposal(s)
+- [ ] Timeline of NSFC
 
 3. Backing Up My Resources
-..* Code on workstation
-..* Account for academic databank
+- [ ] Code on workstation
+- [ ] Account for academic databanks
