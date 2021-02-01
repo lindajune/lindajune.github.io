@@ -3,3 +3,9 @@ layout: post
 title: About Github & Github Page
 ---
 
+### Build a blog with github pages
+- A tutorial with Jekyll: Fork [barryclark/jekyll-now](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/) 
+- Getting started with writing and formatting on GitHub: [English] (https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github) [Chinese] (https://docs.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax)
+
+### How to work with git: 
+- [廖雪峰git教程] (https://www.liaoxuefeng.com/wiki/896043488029600)
